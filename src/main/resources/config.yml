@@ -1,0 +1,2 @@
+# The range where it is allowed to maximal travel. Default: 256 Blocks
+range: 256

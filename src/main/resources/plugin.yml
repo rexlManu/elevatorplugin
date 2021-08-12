@@ -1,0 +1,7 @@
+name: Elevator
+version: @version@
+main: de.rexlmanu.elevator.plugin.ElevatorPlugin
+api-version: 1.16
+description: Elevators that you can easily create
+website: https://github.com/rexlManu/elevatorplugin
+author: Emmanuel Lampe <rexlManu>
